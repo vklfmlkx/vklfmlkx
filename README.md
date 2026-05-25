@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Postgraduate student at the Natural Language Processing Laboratory of Zhengzhou University
+- MS student at the Natural Language Processing Laboratory of Zhengzhou University
 - Yunhao Li
 - How to reach me: yhlee@gs.zzu.edu.cn
 <!--
